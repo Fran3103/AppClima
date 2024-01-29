@@ -255,7 +255,7 @@ function App() {
             <footer className="m-auto  text-center mb-3">
                 <div className="flex  items-center justify-center gap-5 mb-6">
                     <h4> Diseño Franco Aguirre   </h4>
-                    <a href="https://github.com/Fran3103/clima.git" target="Blank_"><FaGithub className="cursor-pointer hover:text-white duration-200 ease-in-out transition-all"/></a> 
+                    <a href="https://github.com/Fran3103/AppClima.git" target="Blank_"><FaGithub className="cursor-pointer hover:text-white duration-200 ease-in-out transition-all"/></a> 
                     <a href="https://www.linkedin.com/in/franco-aguirre-24855012a" target="Blank_"><FaLinkedin className="cursor-pointer hover:text-white duration-200 ease-in-out transition-all" /></a>
                 </div>
                 <h3 className="text-xs">Datos obtenidos en {data.copyright}</h3>
